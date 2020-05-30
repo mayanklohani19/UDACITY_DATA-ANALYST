@@ -1,4 +1,4 @@
-**Udacity_DataAnalyst**
+**#Udacity_DataAnalyst**
 
 These are the projects that I did for the Udacity Data Analyst Nanodegree
 
