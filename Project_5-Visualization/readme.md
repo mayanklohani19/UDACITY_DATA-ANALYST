@@ -23,7 +23,7 @@ LoanStatus of all Borrowers are with current and completed state
 
 For the presentation, I focused mainly with the features that are impactful for approval of loanstatus I start by looking at the distrbuiton of each and every numeric and categorical variables and did all the necessary univariate, bivariate and mulitvariate analysis on the selected varaibles.
 
-The major insights obtained are :
+### The major insights obtained are :
 
 •LoanStatus of all Borrowers are with current and completed state 
 •EmploymentStatus of all Borrowers are with Employed State 
@@ -34,4 +34,4 @@ The major insights obtained are :
 •The origination amount of the loan is interesting. Here we see that the distribution is a right skewed with multiple peaks observed at 4000 USD, 10000 USD and 15000 USD. 
 •Loan original amount and monthly loan payment is highly correlated and it is expected and borrowers interest rate and proper score are highly correlated(-vely), Borrower interest rate and loanamount are -vely correlated.
 
-To conclude this analysis , I will say that the loan approval status is heavily dependent on the applicant's information on IncomeRange, Homeownerstatus and employment status.
+#### To conclude this analysis , I will say that the loan approval status is heavily dependent on the applicant's information on IncomeRange, Homeownerstatus and employment status.
